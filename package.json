@@ -1,0 +1,19 @@
+{
+  "name": "docker-books-api",
+  "version": "1.0.0",
+  "description": "docker books sample",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "docker"
+  ],
+  "author": "Mauricio Coelho",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^15.2.0",
+    "nodemon": "^1.11.0"
+  }
+}
